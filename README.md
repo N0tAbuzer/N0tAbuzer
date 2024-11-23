@@ -1,7 +1,7 @@
 ### ⬛️GM/GN⬛️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/CcEVEGSZNbmzVvKQup/giphy.gif?cid=ecf05e47vwkuw6ly8yeuky3n9gasaa99sgdrlbb0euwt9kwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1100" height="300"/>
+  <img src="https://media.giphy.com/media/fSRQtBAzrPokPCItuu/giphy.gif?cid=ecf05e47vwkuw6ly8yeuky3n9gasaa99sgdrlbb0euwt9kwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1100" height="300"/>
 </div>
 
 ---
